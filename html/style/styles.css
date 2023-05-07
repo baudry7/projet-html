@@ -1,0 +1,48 @@
+h4{
+    color: blue;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title{
+    color: blue;
+    font-style: oblique;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.descendant-selector div p{
+    background-color: blue;
+}
+
+.child-selector > div > p{
+    background-color: red;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: black;
+}
+
+#clean{
+    text-align: center;
+    padding: 30px
+    font-size 30px
+    list-style none
+    displayS inline-block
+
+.p{
+    font-family: 'Roboto' sans-serif;
+}
